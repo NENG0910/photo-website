@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+font-family: 'Space Mono', monospace;
+}
+
+a{
+   text-decoration: none;
+   color: white;
+}
+li{
+    list-style-type: none;
+}
+
+@import "./footer";
+@import "./nav";
+@import "./search";

@@ -2,7 +2,7 @@ import React from "react";
 
 const Nav = () => {
   return (
-    <div>
+    <nav className="nav">
       <ul>
         <li>
           <a href="/">Home</a>
@@ -11,7 +11,7 @@ const Nav = () => {
           <a href="/about">About</a>
         </li>
       </ul>
-    </div>
+    </nav>
   );
 };
 

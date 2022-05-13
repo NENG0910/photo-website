@@ -3,7 +3,7 @@ import Search from "../components/Search";
 
 const Homepage = () => {
   return (
-    <div>
+    <div style={{ minHeight: "100vh" }}>
       <Search />
     </div>
   );
