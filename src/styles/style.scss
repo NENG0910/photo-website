@@ -11,12 +11,14 @@ font-family: 'Space Mono', monospace;
 
 a{
    text-decoration: none;
-   color: white;
+   
 }
 li{
     list-style-type: none;
 }
 
+
 @import "./footer";
 @import "./nav";
 @import "./search";
+@import "./picture"
