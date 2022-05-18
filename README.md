@@ -9,3 +9,9 @@ Line 56:6: React Hook useEffect has a missing dependency: 'searchURL'. Either in
 
 2.Children cannot be added or removed during a reorder
 https://github.com/facebook/react/issues/21751
+
+學習目標:
+
+1.使用 React router
+2.fetch API
+3.SCSS

@@ -10,7 +10,7 @@ const About = () => {
           </a>
         </li>
         <li>
-          <a target="_blank" href="">
+          <a target="_blank" href="https://github.com/NENG0910/photo-website">
             Github
           </a>
         </li>
