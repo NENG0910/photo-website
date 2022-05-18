@@ -17,6 +17,21 @@ li{
     list-style-type: none;
 }
 
+.morepicture{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 4rem;
+    button{
+        font-size: 2rem;
+        padding: 0.25rem 0.5rem;
+        background-color: rgb(73,1,73);
+        color:white;
+        border: none;
+        cursor: pointer;
+
+    }
+}
 
 @import "./footer";
 @import "./nav";

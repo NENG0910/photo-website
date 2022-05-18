@@ -18,6 +18,28 @@ li {
   list-style-type: none;
 }
 
+.morepicture {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 4rem;
+}
+
+.morepicture button {
+  font-size: 2rem;
+  padding: 0.25rem 0.5rem;
+  background-color: #490149;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
 .footer {
   background-color: #c7c5c5;
   display: -webkit-box;
