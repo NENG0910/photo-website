@@ -18,6 +18,6 @@ https://github.com/facebook/react/issues/21751
 
 ## 學習目標:
 
-1.使用 React router\<br>
-2.fetch API\<br>
-3.SCSS\<br>
+1.使用 React router  
+2.fetch API  
+3.SCSS
